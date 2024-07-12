@@ -1,8 +1,10 @@
 body{
+    background-color:azure;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     padding: 0 20px 30px 0;
     line-height: 1.4;
+    
 }
 .flex-container{
     margin-top : 20px;
